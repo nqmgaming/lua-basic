@@ -1,6 +1,2 @@
--- this is a comment
--- this also is a comment
---[[
- multi-line comment
-
-]]
+-- print to console
+print("Hello world!" .. "I am coold") -- Hello world!
